@@ -23,7 +23,7 @@ Perfect for learning content‑based filtering and text vectorization concepts.
 ```
 AI-Game-Recommendation-System/
 ├── main.py          # Main recommendation script
-└── README.md        # This file
+└── README.md        
 ```
 
 ## 🛠️ Requirements
